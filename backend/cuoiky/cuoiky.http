@@ -1,0 +1,6 @@
+@cuoiky_HostAddress = http://localhost:5039
+
+GET {{cuoiky_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\controllers\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controllers\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\ultilies\\paymenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\ultilies\\paymenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\ultilies\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\ultilies\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\ultilies\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\ultilies\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\ultilies\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\ultilies\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\ultilies\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\ultilies\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\models\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\models\\bankinginfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\models\\bankinginfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\enums\\transactionstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\enums\\transactionstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\enums\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\enums\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\enums\\displaylanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\enums\\displaylanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|c:\\users\\ht\\desktop\\dacn_ 1150070023_ phamngocanhkhoi_ 11-tm\u0111t\\1150070023-phamngocanhkhoi-doanchuyennganh\\backend\\cuoiky\\vnpayservices\\enums\\bankcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7567D27E-12F2-4551-B1A4-88CADFA88B66}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\vnpayservices\\enums\\bankcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Program.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Program.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Program.cs",
+              "RelativeToolTip": "cuoiky\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vxkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:29:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatHang.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Controllers\\DatHang.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controllers\\DatHang.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Controllers\\DatHang.cs",
+              "RelativeToolTip": "cuoiky\\Controllers\\DatHang.cs",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAtwPkBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:59.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VnpayController.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Controllers\\VnpayController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controllers\\VnpayController.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\Controllers\\VnpayController.cs",
+              "RelativeToolTip": "cuoiky\\Controllers\\VnpayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\PaymentHelper.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Ultilies\\PaymentHelper.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\PaymentHelper.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Ultilies\\PaymentHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:08.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\NetworkHelper.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Ultilies\\NetworkHelper.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\NetworkHelper.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Ultilies\\NetworkHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Ultilies\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\EnumHelper.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Ultilies\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encoder.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\Encoder.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Ultilies\\Encoder.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\Encoder.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Ultilies\\Encoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:06.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\Comparer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Ultilies\\Comparer.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Ultilies\\Comparer.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Ultilies\\Comparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:28:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Models\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\TransactionStatus.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Models\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentResult.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Models\\PaymentResult.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentResult.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Models\\PaymentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Models\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentResponse.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Models\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Models\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankingInfor.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\BankingInfor.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Models\\BankingInfor.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Models\\BankingInfor.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Models\\BankingInfor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:44.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionStatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\TransactionStatusCode.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Enums\\TransactionStatusCode.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\TransactionStatusCode.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Enums\\TransactionStatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:37.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseCode.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\ResponseCode.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Enums\\ResponseCode.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\ResponseCode.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Enums\\ResponseCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DisplayLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\DisplayLanguage.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Enums\\DisplayLanguage.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\DisplayLanguage.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Enums\\DisplayLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:28.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\Currency.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Enums\\Currency.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\Currency.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Enums\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankCode.cs",
+              "DocumentMoniker": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\BankCode.cs",
+              "RelativeDocumentMoniker": "cuoiky\\VnpayServices\\Enums\\BankCode.cs",
+              "ToolTip": "C:\\Users\\HT\\Desktop\\DACN_ 1150070023_ PhamNgocAnhKhoi_ 11-TM\u0110T\\1150070023-PhamNgocAnhKhoi-DoAnChuyenNganh\\backend\\cuoiky\\VnpayServices\\Enums\\BankCode.cs",
+              "RelativeToolTip": "cuoiky\\VnpayServices\\Enums\\BankCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:27:14.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
