@@ -1,4 +1,4 @@
-﻿using cuoiky.Services.VnpayServices.Enums;
+using cuoiky.Services.VnpayServices.Enums;
 using System.Globalization;
 using VNPAY.NET.Models;
 using VNPAY.NET.Utilities;

@@ -27,7 +27,7 @@ namespace cuoiky.Controllers
             _vnpay = vnPayservice;
             _configuration = configuration;
 
-            _vnpay.Initialize(_configuration["Vnpay:TmnCode"], _configuration["Vnpay:HashSecret"], _configuration["Vnpay:BaseUrl"], _configuration["Vnpay:CallbackUrl"]);
+            _vnpay.Initialize(_configuration["Vnpay:TmnCode"], _configuration["Vnpay:HashSecret"], _configuration["Vnpay:CallbackUrl"], _configuration["Vnpay:BaseUrl"]);
         }
 
         // ========== ADMIN ENDPOINTS ==========
@@ -91,6 +91,7 @@ namespace cuoiky.Controllers
                     {
                         IdSach = c.IdSach ?? 0,
                         TenSach = c.IdSachNavigation?.TenSach ?? "",
+                        TenTacGia = c.IdSachNavigation?.TenTacGia ?? "",
                         HinhAnh = c.IdSachNavigation?.HinhAnh,
                         Gia = c.Gia ?? 0,
                         SoLuong = c.SoLuong ?? 0,
@@ -238,8 +239,11 @@ namespace cuoiky.Controllers
                 // Support for status query parameter format
                 "cho-xac-nhan" => 1, // Chờ xác nhận
                 "da-xac-nhan"  => 2, // Đã xác nhận
-                "dang-giao"    => 5, // Đang giao
-                "da-huy"       => 7, // Đã hủy
+                "chuan-bi"     => 3, // Đang chuẩn bị
+                "giao-vc"      => 4, // Đã giao cho đơn vị vận chuyển
+                "dang-giao"    => 5, // Đang giao đến bạn
+                "da-giao"      => 6, // Đơn hàng đã giao
+                "da-huy"       => 7, // Hủy đơn hàng
                 _ => (int?)null
             };
         }
@@ -626,6 +630,7 @@ namespace cuoiky.Controllers
                     {
                         IdSach = c.IdSach ?? 0,
                         TenSach = c.IdSachNavigation?.TenSach ?? "",
+                        TenTacGia = c.IdSachNavigation?.TenTacGia ?? "",
                         HinhAnh = c.IdSachNavigation?.HinhAnh,
                         Gia = c.Gia ?? 0,
                         SoLuong = c.SoLuong ?? 0,

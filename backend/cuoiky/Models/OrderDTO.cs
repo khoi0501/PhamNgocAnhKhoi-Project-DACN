@@ -39,6 +39,7 @@ public class OrderItemDTO
 {
     public long IdSach { get; set; }
     public string TenSach { get; set; } = null!;
+    public string? TenTacGia { get; set; }
     public string? HinhAnh { get; set; }
     public decimal Gia { get; set; }
     public int SoLuong { get; set; }

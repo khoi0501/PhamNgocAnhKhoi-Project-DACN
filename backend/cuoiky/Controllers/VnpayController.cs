@@ -1,4 +1,4 @@
-﻿using cuoiky.Models;
+using cuoiky.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -24,7 +24,7 @@ namespace cuoiky.Controllers
             _configuration = configuration;
             _context = quanLySachContext;
 
-            _vnpay.Initialize(_configuration["Vnpay:TmnCode"], _configuration["Vnpay:HashSecret"], _configuration["Vnpay:BaseUrl"], _configuration["Vnpay:CallbackUrl"]);
+            _vnpay.Initialize(_configuration["Vnpay:TmnCode"], _configuration["Vnpay:HashSecret"], _configuration["Vnpay:CallbackUrl"], _configuration["Vnpay:BaseUrl"]);
         }
         [HttpGet("CreatePaymentUrl")]
         public ActionResult<string> CreatePaymentUrl(double money, string description)
