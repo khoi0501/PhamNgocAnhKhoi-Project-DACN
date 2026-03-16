@@ -12,6 +12,7 @@ import ForgotPassword from './screens/ForgotPassword';
 import AdminScreen from './screens/AdminScreen';
 import QuanLyNhanVien from './screens/QuanLyNhanVien';
 import FormCreateNhanVien from './screens/FormCreateNhanVien';
+import FormEditNhanVien from './screens/FormEditNhanVien';
 import FormNhapOTP from './screens/FormNhapOTP';
 import FormDatLaiMatKhau from './screens/FormDatLaiMatKhau';
 import CreateTheLoai from './screens/CreateTheLoai';
@@ -29,6 +30,7 @@ import QuanLyNhapHang from "./screens/QuanLyNhapHang";
 import QuanLyTonKho from "./screens/QuanLyTonKho";
 import DanhGiaCuaToi from "./screens/DanhGiaCuaToi";
 import ThongKeScreen from "./screens/ThongKeScreen";
+import VietDanhGia from "./screens/VietDanhGia";
 import { SachDTO } from "./services/sachGet";
 
 
@@ -43,6 +45,7 @@ export type RootStackParamList = {
    Admin: undefined;
    QuanLyNhanVien: undefined;
    FormCreateNhanVien: undefined;
+   FormEditNhanVien: { adminId: number };
    FormNhapOTP: undefined;
    FormDatLaiMatKhau: undefined;
    CreateTheLoai: undefined;
@@ -60,6 +63,7 @@ export type RootStackParamList = {
   QuanLyTonKho: undefined;
   DanhGiaCuaToi: undefined;
   ThongKe: undefined;
+  VietDanhGia: { orderId: number, products: any[], maDonHang?: string };
 }; // Updated to include DonHang route
 
 // Type cho navigation của Home
@@ -112,6 +116,7 @@ export default function App() {
  <Stack.Screen name="Admin" component={AdminScreen} options={{ headerShown: false }} />
  <Stack.Screen name="QuanLyNhanVien" component={QuanLyNhanVien} options={{ headerShown: false }} />
  <Stack.Screen name="FormCreateNhanVien" component={FormCreateNhanVien} options={{ headerShown: false }} />
+ <Stack.Screen name="FormEditNhanVien" component={FormEditNhanVien} options={{ headerShown: false }} />
  <Stack.Screen name="FormNhapOTP" component={FormNhapOTP} options={{ headerShown: false }} />
  <Stack.Screen name="FormDatLaiMatKhau" component={FormDatLaiMatKhau} options={{ headerShown: false }} />
  <Stack.Screen name="CreateTheLoai" component={CreateTheLoai} options={{ headerShown: false }} />
@@ -129,6 +134,7 @@ export default function App() {
  <Stack.Screen name="QuanLyTonKho" component={QuanLyTonKho} options={{ headerShown: false }} />
  <Stack.Screen name="DanhGiaCuaToi" component={DanhGiaCuaToi} options={{ headerShown: false }} />
  <Stack.Screen name="ThongKe" component={ThongKeScreen} options={{ headerShown: false }} />
+ <Stack.Screen name="VietDanhGia" component={VietDanhGia} options={{ headerShown: false }} />
 
       </Stack.Navigator>
     </NavigationContainer>
